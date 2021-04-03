@@ -5,3 +5,5 @@ Arief Kurniawan
 Nanda Handayani     
 Siti Aisah Jamil     
 Rani Rohaeni
+
+https://github.com/Nandahandayani/Kelompok.E-AndroidStudio-MyList/tree/main/KelompokE_AndroidStudio-MyList-master
